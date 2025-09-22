@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     #third party
     'rest_framework',
     #local apps
- 
     'api',
 ]
 
